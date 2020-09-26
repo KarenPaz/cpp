@@ -18,7 +18,7 @@ void cargarLibros() {
 
 	libros[2][0] = "Algoritmos"; 
     libros[2][1] = "Breves Notas sobre Analisis de Algoritmos";
-    libros[2][2] = "Steven Skiena";
+    libros[2][2] = "Steven Skiena y Bill Gates";
 
 	libros[3][0] = "Algoritmos"; 
     libros[3][1] = "Fundamentos de Informatica y Programacion";
@@ -58,7 +58,7 @@ void cargarLibros() {
 
 	libros[12][0] = "Metodologias de desarrollo de software"; 
     libros[12][1] = "Ingenieria de Software: Una Guia para Crear Sistemas de Informacion";
-    libros[12][2] = "Bill Gates";
+    libros[12][2] = "Joan Cabello y Alan Turing";
 
 	libros[13][0] = "Miscelaneos"; 
     libros[13][1] = "97 cosas que todo programador deberia saber";
