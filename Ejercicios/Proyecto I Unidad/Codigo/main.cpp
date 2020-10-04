@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
         cout << " 2 - Serpiente " << endl << endl;
         cout << " 0 - Salir " << endl << endl;
 
-        cout << " Ingrese numero para seleccionar el juego:  " <<endl;
+        cout << " Ingrese numero para seleccionar el juego:  ";
         cin >> opcion;
 
         system("cls");
