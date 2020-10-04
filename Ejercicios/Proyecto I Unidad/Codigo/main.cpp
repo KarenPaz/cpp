@@ -20,6 +20,8 @@ int main(int argc, char const *argv[])
         cout << " 1 - Nave estelar " << endl << endl;
         cout << " 2 - Serpiente " << endl << endl;
         cout << " 0 - Salir " << endl << endl;
+
+        cout << " Ingrese numero para seleccionar el juego:  " <<endl;
         cin >> opcion;
 
         system("cls");
